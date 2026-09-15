@@ -1,4 +1,6 @@
 # syqmtQQ798623
+直接下载这个文件夹放到IDE里，点击运行就可以
+https://github.com/NobodySniper/Qmt-Quantitative-Tool-python/tree/main/QMT%E7%AD%96%E7%95%A5%E5%A4%87%E4%BB%BD%E5%B7%A5%E5%85%B7
 
 > 固定文件自动备份工具 · 专为 QMT 策略开发者打造的零依赖快照脚本
 
