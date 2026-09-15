@@ -1,0 +1,13 @@
+# syqmtQQ798623 备份列表
+# 规则：
+#   1) 以 # 开头的行 = 注释，不会被执行
+#   2) 空行会被忽略
+#   3) 一行写一个要备份的文件绝对路径
+#   4) 路径可以加双引号也可以不加
+#   5) 文件不存在时不会中断，会被记到 report.json
+#
+# 示例（不需要的删掉就行）：
+
+"D:\国金证券QMT交易端\python\wave_detector.py"
+"D:\国金证券QMT交易端\python\CKLBUY.py"
+"D:\国金证券QMT交易端\bin.x64\a0pending_pool.csv"
